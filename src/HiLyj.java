@@ -15,6 +15,6 @@ public class HiLyj {
     public static void main(String[] args) {
         System.out.println("怎么提交不上去啊？？？？");
         System.out.println("你好啊，Lyj同学！");
-        System.out.println("66666");
+
     }
 }
