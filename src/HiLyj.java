@@ -6,7 +6,7 @@
  **/
 public class HiLyj {
     /** 
-    * @Description:  
+    * @Description:
     * @Param:  
     * @return:  
     * @Author: babyL 
@@ -14,5 +14,6 @@ public class HiLyj {
     */ 
     public static void main(String[] args) {
         System.out.println("你好啊，Lyj同学！");
+        System.out.println("66666");
     }
 }
